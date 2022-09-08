@@ -10,6 +10,7 @@ router.get('/:id',getOrganization);
 router.post('/create',createOrganization);
 router.put('/update/:id',updateOrganization);
 router.delete('/delete/:id',deleteOrganization);
+router.get('/test',newController)
 
 
 
