@@ -1,4 +1,3 @@
-
 import express from 'express';
 import { createOrganization, deleteOrganization, getAllOrganization,
      getOrganization, updateOrganization } from '../controllers/organizationController.js';
@@ -15,7 +14,3 @@ router.delete('/delete/:id',deleteOrganization);
 
 
 export default router;
-
-In this version, changes was made to the README file...
-And then I will be the next contributor... HAHAHAHA!!!
-
