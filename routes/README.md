@@ -1,1 +1,0 @@
-In order to make chnages to this file, you have to be a developer. If not then sorry for you. and go listen to Kcash on Soundcloud!
