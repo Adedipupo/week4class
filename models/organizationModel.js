@@ -1,7 +1,13 @@
 import mongoose from 'mongoose'
 
-const organizationSchema = new mongoose.Schema(
-  {
+
+
+const organizationSchema = new mongoose.Schema({
+  // user: {
+  //   type: mongoose.Schema.Types.ObjectId,
+  //   required: true,
+  //   ref: "User",
+  // },
     organization_name: {
       type: String,
       required: true,
